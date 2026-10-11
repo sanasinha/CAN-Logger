@@ -1,0 +1,9 @@
+# Build outputs
+/Debug/
+/Release/
+
+# Local IDE configuration and state
+/.settings/
+.mxproject
+*.local
+*.launches
